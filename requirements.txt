@@ -1,0 +1,4 @@
+langchain
+streamlit
+langchain-huggingface
+langchain-community
